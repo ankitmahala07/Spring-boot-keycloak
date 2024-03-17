@@ -1,2 +1,2 @@
-# Spring-boot
-Spring-Boot projects under this directory, Which can be used directly as templates while setting a new application
+# Spring-boot-keycloak
+Spring-Boot Keycloak project under this directory, Which can be used directly as template while setting a new application with keycloak Oauth security
